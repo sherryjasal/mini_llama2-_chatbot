@@ -32,4 +32,5 @@ In this practice tutorial, we will be learning:
 # Libraries and Frameworks
 
 ⚒️ streamlit: for for creating the web frontend using low code framework
+
 ⚒️ replicate: an ML model hosting platform that allows interfacing with the model via an API call.
