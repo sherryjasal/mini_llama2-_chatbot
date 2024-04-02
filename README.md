@@ -1,4 +1,4 @@
-# mini_llama2-🦙_chatbot
+# Mini_llama2-🦙_chatbot
 This chatbot is created for practice purpose using Meta's Llama2 following few tutorials.
 
 In this project, we are using llama2-7B🦙
