@@ -25,5 +25,5 @@ In this practice tutorial, we will be learning:
 - Deploying the app
 
 Libraries and Frameworks
-streamlit
-replicate
+⚒️ streamlit
+⚒️ replicate
