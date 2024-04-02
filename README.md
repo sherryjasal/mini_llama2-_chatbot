@@ -3,13 +3,18 @@ This chatbot is created for practice purpose using Meta's Llama2 following few t
 
 In this project, we are using llama2-7B🦙
 
-Why llama2 ?!
+# Why llama2 ?!
 
 🦙llama2 is a large language model by Meta easily and freely available to use for reasearch and commercial purpose.
+
 🦙it has longer context lengths of size 4096.
+
 🦙it is available in 3 sizes: 7B, 13B and 70B
+
 🦙llama2 is trained on the data twice the size of the data used in version 1 almost around 2 trillion tokens
-🦙training included human annotations and fine-tuning for chat comp;etions
+
+🦙training included human annotations and fine-tuning for chat completions
+
 🦙outperforms other open source LLMs in benchmarks for reasoning, coding profeciency and knowledge base.
 
 While it's freely available to use and download but to run llama 2 on self-hosted platform but it reuqires expensive GPUs.
